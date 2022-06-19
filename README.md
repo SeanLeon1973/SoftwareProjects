@@ -51,7 +51,7 @@ In this work, I worked on the cutting plane, streamline culling, and virtual rea
 
 ### ActiveFLOVE in Unreal Engine 4
 <p float="center">
-  <img src="https://user-images.githubusercontent.com/45838898/174492659-dd30ff9d-5dbb-47aa-9024-fb74e41eb2a5.png" width="400" />
+  <img src="https://user-images.githubusercontent.com/45838898/174492659-dd30ff9d-5dbb-47aa-9024-fb74e41eb2a5.png" width="350" />
   <img src="https://user-images.githubusercontent.com/45838898/174492661-f72b7aff-da20-4135-8eb3-d1663c508ca3.png" width="400" /> 
 </p>
 
