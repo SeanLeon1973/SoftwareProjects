@@ -29,29 +29,29 @@ In this work, I worked on the cutting plane, streamline culling, and virtual rea
 
 <h4> A Cutting Plane with Various Configurations of Evenly-Spaced Streamlines </h4>
 <p float="center">
-  <img src="https://user-images.githubusercontent.com/45838898/174492377-fb291d14-a52e-4951-8b43-a062c694d9e8.png" width="425" />
-  <img src="https://user-images.githubusercontent.com/45838898/174492381-b5dccf7a-e1c2-4f79-9e04-45d97ae00b95.png" width="425" /> 
+  <img src="https://user-images.githubusercontent.com/45838898/174492377-fb291d14-a52e-4951-8b43-a062c694d9e8.png" width="400" />
+  <img src="https://user-images.githubusercontent.com/45838898/174492381-b5dccf7a-e1c2-4f79-9e04-45d97ae00b95.png" width="400" /> 
 </p>
 
 ### Streamline Culling
 
 <h4> A Zoomed in Cutting Plane with Streamlines Not-Culled(left) and Culled(right)</h4>
 <p float="center">
-  <img src="https://user-images.githubusercontent.com/45838898/174492493-dbb2351e-50eb-4594-aa29-cab5346597cd.png" width="425" />
-  <img src="https://user-images.githubusercontent.com/45838898/174492506-ce04c4bd-2d44-4dbb-bf9d-1526d689070f.png" width="425" /> 
+  <img src="https://user-images.githubusercontent.com/45838898/174492493-dbb2351e-50eb-4594-aa29-cab5346597cd.png" width="400" />
+  <img src="https://user-images.githubusercontent.com/45838898/174492506-ce04c4bd-2d44-4dbb-bf9d-1526d689070f.png" width="400" /> 
 </p>
 
 <h4> A Set of Culling Regions </h4>
 <p float="center">
-  <img src="https://user-images.githubusercontent.com/45838898/174492598-f2b78a0c-79a5-4544-bea9-3d280fc8f629.png" width="425" />
-  <img src="https://user-images.githubusercontent.com/45838898/174492602-e68167cb-d644-44fa-a12e-11a9b8ae0396.png" width="425" /> 
+  <img src="https://user-images.githubusercontent.com/45838898/174492598-f2b78a0c-79a5-4544-bea9-3d280fc8f629.png" width="400" />
+  <img src="https://user-images.githubusercontent.com/45838898/174492602-e68167cb-d644-44fa-a12e-11a9b8ae0396.png" width="400" /> 
 </p>
 
 ## ExActiveFLOVE_Unreal
 
 ### ActiveFLOVE in Unreal Engine 4
 <p float="center">
-  <img src="https://user-images.githubusercontent.com/45838898/174492659-dd30ff9d-5dbb-47aa-9024-fb74e41eb2a5.png" width="425" />
-  <img src="https://user-images.githubusercontent.com/45838898/174492661-f72b7aff-da20-4135-8eb3-d1663c508ca3.png" width="425" /> 
+  <img src="https://user-images.githubusercontent.com/45838898/174492659-dd30ff9d-5dbb-47aa-9024-fb74e41eb2a5.png" width="400" />
+  <img src="https://user-images.githubusercontent.com/45838898/174492661-f72b7aff-da20-4135-8eb3-d1663c508ca3.png" width="400" /> 
 </p>
 
