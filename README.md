@@ -1,12 +1,13 @@
-# ExActiveFLOVE
+# Extended Active Flow Visualization Environment (ExActiveFLOVE)
 
 The results of my work with Dr. Zhanping Liu on ActiveFLOVE, a flow visualization application. 
 
 In this work, I worked on the cutting plane, streamline culling, and virtual reality portion of this project. The rest of the application was built by Dr. Liu previous to the start of my work.
 
-## ActiveFLOVE
+## ActiveFLOVE 
 
 ### A Cutting Plane in a interactive 3D space
+
 <h4> A Cutting Plane with Nothing on It and Streamlines in Front of It </h4>
 
 <img src="https://user-images.githubusercontent.com/45838898/174490604-0388fd2a-1eba-4f96-a929-7bb8bb65f7a5.png" width="385px" align="center">
