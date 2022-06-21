@@ -6,7 +6,7 @@ I worked on the cutting plane, streamline culling, and virtual reality portions 
 
 All images shown below are of the Ex-ActiveFLOVE application.
 
-## ExActiveFLOVE 
+## Ex-ActiveFLOVE 
 
 ### A Cutting Plane in an Interactive 3D Space
 
