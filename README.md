@@ -50,7 +50,7 @@ All images shown below are of the Ex-ActiveFLOVE application.
   <img src="https://user-images.githubusercontent.com/45838898/174492602-e68167cb-d644-44fa-a12e-11a9b8ae0396.png" width="400" /> 
 </p>
 
-## ExActiveFLOVE_Unreal
+## Ex-ActiveFLOVE_Unreal
 
 ### Ex-ActiveFLOVE in Unreal Engine 4
 <p float="center">
