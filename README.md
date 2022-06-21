@@ -1,6 +1,6 @@
 # Extended Active Flow Visualization Environment (Ex-ActiveFLOVE)
 
-The ExActiveFLOVE* directories contain the results of my work with Dr. Zhanping Liu on Ex-ActiveFLOVE. 
+The Ex-ActiveFLOVE* directories contain the results of my work with Dr. Zhanping Liu on Ex-ActiveFLOVE. 
 
 I worked on the cutting plane, streamline culling, and virtual reality portions of this project. The rest of the application was built by Dr. Liu previous to the start of my work.
 
