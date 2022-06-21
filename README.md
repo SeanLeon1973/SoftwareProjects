@@ -1,6 +1,6 @@
-# Extended Active Flow Visualization Environment (ExActiveFLOVE)
+# Extended Active Flow Visualization Environment (Ex-ActiveFLOVE)
 
-The results of my work with Dr. Zhanping Liu on ActiveFLOVE, a flow visualization application. 
+The results of my work with Dr. Zhanping Liu on ActiveFLOVE, his flow visualization application. 
 
 In this work, I worked on the cutting plane, streamline culling, and virtual reality portion of this project. The rest of the application was built by Dr. Liu previous to the start of my work.
 
@@ -50,7 +50,7 @@ In this work, I worked on the cutting plane, streamline culling, and virtual rea
 
 ## ExActiveFLOVE_Unreal
 
-### ActiveFLOVE in Unreal Engine 4
+### Ex-ActiveFLOVE in Unreal Engine 4
 <p float="center">
   <img src="https://user-images.githubusercontent.com/45838898/174492659-dd30ff9d-5dbb-47aa-9024-fb74e41eb2a5.png" width="360" />
   <img src="https://user-images.githubusercontent.com/45838898/174492661-f72b7aff-da20-4135-8eb3-d1663c508ca3.png" width="400" /> 
