@@ -1,14 +1,14 @@
 # Extended Active Flow Visualization Environment (Ex-ActiveFLOVE)
 
-The results of my work with Dr. Zhanping Liu on ActiveFLOVE, his flow visualization application. 
+The ExActiveFLOVE* directories contain the results of my work with Dr. Zhanping Liu on Ex-ActiveFLOVE. 
 
-In this work, I worked on the cutting plane, streamline culling, and virtual reality portion of this project. The rest of the application was built by Dr. Liu previous to the start of my work.
+I worked on the cutting plane, streamline culling, and virtual reality portions of this project. The rest of the application was built by Dr. Liu previous to the start of my work.
 
-All images shown below are of the Ex-ActiveFLOVE application. 
+All images shown below are of the Ex-ActiveFLOVE application.
 
 ## ExActiveFLOVE 
 
-### A Cutting Plane in a interactive 3D space
+### A Cutting Plane in an Interactive 3D Space
 
 <h4> A Cutting Plane with Nothing on It and Streamlines in Front of It </h4>
 
@@ -22,7 +22,7 @@ All images shown below are of the Ex-ActiveFLOVE application.
   <img src="https://user-images.githubusercontent.com/45838898/174491755-8c637b2f-264c-49e9-960e-d2bf5e22cb47.png" width="250" />
 </p>
 
-<h4> A Cutting Plane with Various Configurations of Line Intergral Convolution </h4>
+<h4> A Cutting Plane with Various Configurations of Line Integral Convolution </h4>
 
 <p float="center">
   <img src="https://user-images.githubusercontent.com/45838898/174492031-7e9d3053-8779-40f6-9e6f-6a5218b4508b.png" width="250" />
@@ -38,7 +38,7 @@ All images shown below are of the Ex-ActiveFLOVE application.
 
 ### Streamline Culling
 
-<h4> A Zoomed in Cutting Plane with Streamlines Not-Culled(left) and Culled(right)</h4>
+<h4> A Zoomed-in Cutting Plane with Streamlines Not-Culled(left) and Culled(right) </h4>
 <p float="center">
   <img src="https://user-images.githubusercontent.com/45838898/174492493-dbb2351e-50eb-4594-aa29-cab5346597cd.png" width="400" />
   <img src="https://user-images.githubusercontent.com/45838898/174492506-ce04c4bd-2d44-4dbb-bf9d-1526d689070f.png" width="400" /> 
