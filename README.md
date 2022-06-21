@@ -56,7 +56,7 @@ In this work, I worked on the cutting plane, streamline culling, and virtual rea
   <img src="https://user-images.githubusercontent.com/45838898/174492661-f72b7aff-da20-4135-8eb3-d1663c508ca3.png" width="400" /> 
 </p>
 
-## Class Projects
+# Class Projects
 
 A directory of notable class projects
 
