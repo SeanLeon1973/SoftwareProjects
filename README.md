@@ -4,6 +4,8 @@ The results of my work with Dr. Zhanping Liu on ActiveFLOVE, his flow visualizat
 
 In this work, I worked on the cutting plane, streamline culling, and virtual reality portion of this project. The rest of the application was built by Dr. Liu previous to the start of my work.
 
+All images shown below are of the Ex-ActiveFLOVE application. 
+
 ## ExActiveFLOVE 
 
 ### A Cutting Plane in a interactive 3D space
